@@ -10,7 +10,8 @@
 
 ### 🛠 &nbsp;Tools & Technologies
 
-![My Skills](https://skillicons.dev/icons?i=aws,py,go,bash,git,github,githubactions,gitlab,linux,ansible,docker,kubernetes,prometheus,grafana&perline=7)
+![My Skills](http://skillicons.dev/icons?i=cpp,c,go,bash,git,github,docker,neovim,linux,&perline=7)
+
 
 ### 📊 &nbsp;GitHub Status
 
@@ -22,19 +23,3 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Loaay47&theme=catppuccin_mocha&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-## 🚀 Open-source Contributions
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/rothgar/awesome-tuis">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=rothgar&repo=awesome-tuis&show_owner=true&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/ryohey/Zoomable">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=ryohey&repo=Zoomable&show_owner=true&theme=github_dark&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>

@@ -3,14 +3,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="whois.gif">
+<img src="whoami.gif">
 </p>
 
 ### 🛠 &nbsp;Tools & Technologies
 
-![My Skills](http://skillicons.dev/icons?i=cpp,c,go,bash,git,github,docker,neovim,linux,&perline=7)
+![My Skills](http://skillicons.dev/icons?i=cpp,c,go,bash,lua,git,github,docker,neovim,linux,&perline=7)
 
 
 ### 📊 &nbsp;GitHub Status
